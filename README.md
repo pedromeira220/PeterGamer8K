@@ -5,16 +5,23 @@
 - 15 years old
 
 ### Favorite technologies:
-- JavaScript
-- HTML
-- CSS
-- NodeJS
+- [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/en/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en/docs/Web/CSS)
+- [Node.js](https://nodejs.org/en/)
+
+
+
+
+
+
 
 ### Studing
 
-- ReactJS
-- React Native
-- TypeScript
+- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://reactjs.org)
 
 <!--
 **PeterGamer8K/PeterGamer8K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
