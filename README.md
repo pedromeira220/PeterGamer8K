@@ -1,10 +1,20 @@
 # Hello there👋
 
 ### Who I am?
-Pedro Meira 
-15 years old
+- Pedro Meira 
+- 15 years old
 
+### Favorite technologies:
+- JavaScript
+- HTML
+- CSS
+- NodeJS
 
+### Studing
+
+- ReactJS
+- React Native
+- TypeScript
 
 <!--
 **PeterGamer8K/PeterGamer8K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
