@@ -27,8 +27,6 @@
  
   
 </div>
-Footer
-
   
 ##
 ### Who I am?
