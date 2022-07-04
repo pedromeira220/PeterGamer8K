@@ -32,6 +32,7 @@
 ### Who I am?
 - Pedro Meira 
 - 15 years old
+- Brazilian
 
 ### Favorite technologies:
 - [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
