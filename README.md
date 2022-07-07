@@ -31,7 +31,7 @@
 </div>
   
 ##
-### Who I am?
+### Who am I?
 - Pedro Meira 
 - 15 years old
 - Brazilian
